@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://github.com/Byte-1337/WinformUI-Spoofer/assets/128874433/e8f1eeb1-a879-49db-8991-3c8a8fdf7b5d)
+![image](https://cdn.discordapp.com/attachments/1104828502794059810/1158493735001260132/Screenshot_2023-10-02_155837.png)
 ![image](https://cdn.discordapp.com/attachments/1104828502794059810/1158493734456017017/Screenshot_2023-10-02_155913.png)
 
 
