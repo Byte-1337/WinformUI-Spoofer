@@ -23,10 +23,10 @@ namespace carbon.wtf_new_frontend
     public partial class Form2 : Form
     {
         public static api KeyAuthApp = new api(
-            name: "UB.WTF",
-            ownerid: "qhmn2aIwBh",
-            secret: "156c6745c678ff6d3ef9241c51dbd110a80bb37be19df1f2c4e060d49ce26468",
-            version: "1.0"
+            name: "",
+            ownerid: "",
+            secret: "",
+            version: ""
         );
         static void KillProcess(string proc)
         {
